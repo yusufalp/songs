@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.song p {
+  display: inline-block;
+  margin-right: 24px;
+}
